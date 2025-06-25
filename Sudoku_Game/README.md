@@ -17,7 +17,7 @@ A feature-rich Sudoku game built using **C++** and **SFML**, offering an interac
 
 ## 📸 Preview
 
-> ![screenshot](assets/screenshots/game_preview.png)  
+> ![screenshot](screenshots/game_preview.png)  
 > _Sudoku Game UI with highlighted cells, timer and hint info._
 
 ---
