@@ -58,3 +58,37 @@ cmake .. -G "MinGW Makefiles"
 
 # Build the executable
 mingw32-make .
+
+```
+
+## 📁 Project Structure
+
+```css
+Sudoku_Game/
+├── assets/
+│   └── fonts/
+│       └── arial.ttf
+├── include/
+│   ├── UI.hpp
+│   ├── Solver.hpp
+│   └── common.hpp
+├── src/
+│   ├── main.cpp
+│   ├── UI.cpp
+│   └── Solver.cpp
+├── CMakeLists.txt
+└── README.md
+```
+
+## 🙌 Acknowledgements
+
+- Built using SFML
+- Inspired by traditional Sudoku Logic games
+
+## 📃 License
+
+This project is licensed under the MIT License. Feel free to use, modify, and distribute it.
+
+## 👨‍💻 Author
+
+Akshat Priyadarshi
